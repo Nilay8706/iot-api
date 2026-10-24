@@ -1,5 +1,6 @@
-flask
+Flask
 psycopg2-binary
 gunicorn
 tzdata
 paho-mqtt==2.1.0
+idna
